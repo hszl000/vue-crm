@@ -7,8 +7,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 // 引入axios
 import axios from "axios"
-// 引入nanoid
-import { nanoid } from 'nanoid'
+
 
 Vue.config.productionTip = false;
 Vue.prototype.$http = axios
